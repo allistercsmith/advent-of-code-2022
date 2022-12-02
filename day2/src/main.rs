@@ -79,6 +79,6 @@ fn part2() -> i32 {
 }
 
 fn main() {
-    println!("Day 1, part 1: {}", part1());
-    println!("Day 1, part 2: {}", part2());
+    println!("Day 2, part 1: {}", part1());
+    println!("Day 2, part 2: {}", part2());
 }
